@@ -1,0 +1,4 @@
+2 players
+  wooded 1  I  L  L  N      river 1  N  M  N  MM      river 1  GG  N  M  N       lake 1  L  N  MM  N   
+  wooded 1  CC  N  G  N       lake 1  N  M  S  N     wooded 1  G  G  I  N     wooded 1  L  MM  N  MM   
+   field 1  O  I  W  R   mountain 1  I  S  O  I   mountain 1  S  SS  S  II     desert 1  I  OO  O  N   
